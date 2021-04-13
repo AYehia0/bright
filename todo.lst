@@ -1,0 +1,16 @@
+# Initial Idea 
+
+    - take a webcam picture
+    - determine if picture is bright or dark based on the values of the rgb
+    - save and keep checking if picture values changed 
+    - if changed, change brightness based on the differnce 
+
+# Notes for optimization
+
+    - delete pictures after extracting info but save values in a somefile
+    - use the video instead  
+
+# Installing required things
+
+    - cv2
+    
